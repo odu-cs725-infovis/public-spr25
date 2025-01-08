@@ -38,7 +38,7 @@
 
 ### Assignment
 
-* HW1 - Vega-Lite Intro
+* [HW1 - Vega-Lite Intro](HW1-VegaLite.md)
 * Review Week 2 materials and complete the reading assignment before class
 
 ### Resources
