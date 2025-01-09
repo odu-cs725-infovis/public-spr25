@@ -62,7 +62,7 @@
 
 #### Data Sources
 
-* [list of public datasets from CS 625-F24](https://github.com/odu-cs625-datavis/public-fall24-mcw/blob/main/data.md)
+* [list of some public sources](data.md), including US, Virginia, and local open data
 * [Data Is Plural archive](https://www.data-is-plural.com/archive/) - weekly newsletter of useful/curious datasets
 * [Our World in Data GitHub](https://github.com/owid), [datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
 * [US Census Bureau data](https://data.census.gov)
