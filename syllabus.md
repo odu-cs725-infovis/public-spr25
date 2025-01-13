@@ -17,9 +17,7 @@ If you have not taken CS 625, see [What Do I Need to Know Coming into This Cours
 
 Dr. Michele Weigle: mweigle at cs.odu.edu, <https://www.cs.odu.edu/~mweigle/>
 
-My office hours are tentatively Mon/Wed 1:30-2:30pm (in-person ECSB 3327 or Zoom) or by appointment. See Canvas for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student.  
-
-On days that our class meets by Zoom only, I may not be on campus for office hours, but I will be available by Zoom.
+My office hours are Mon/Wed 1:30-2:30pm (Zoom), Tue 10-11am (ECSB 3327), or by appointment. See Canvas for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student.  
 
 *If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.*
 
