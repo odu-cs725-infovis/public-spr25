@@ -74,11 +74,49 @@
 
 [Agenda and Materials](#agenda-and-materials-1) | [Assignment](#assignment-1) | [Resources](#resources-1)
 
+### Due (before class)
+
+*nothing due this week*
+
 ### Agenda and Materials
+
+**Mon: NO CLASS - MLK, Jr. Holiday**
+
+**Wed:**
+
+Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook> ([in-class version](https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-spr2025))
+
+* we'll be working through "Observable Intro" and "Arquero" sections, rest will be discussed next week
+
+Observable - see [Observable](#observable) links below
+
+Arquero, library for query processing and transformation of array-backed data tables - see [Arquero](#arquero) links below
 
 ### Assignment
 
+* Review Week 3 materials and complete the reading assignment before class
+
 ### Resources
+
+#### Observable
+
+* [Getting Started](https://observablehq.com/@observablehq/getting-started)
+* [Learning Observable collection](https://observablehq.com/@observablehq/learning-observable-introduction?collection=@observablehq/intro-to-observable)
+  * [Notebooks and cells](https://observablehq.com/@observablehq/learning-observable-notebooks-and-cells?collection=@observablehq/intro-to-observable)
+  * [Getting data into Observable](https://observablehq.com/@observablehq/learning-observable-getting-data-into-observable?collection=@observablehq/intro-to-observable)
+  * [Cell modes, reactive Markdown, and HTML](https://observablehq.com/@observablehq/learning-observable-cell-modes-reactive-markdown-and-html?collection=@observablehq/intro-to-observable)
+  * [Reactive dataflow](https://observablehq.com/@observablehq/learning-observable-reactive-dataflow?collection=@observablehq/intro-to-observable), introduces the [Minimap](https://observablehq.com/@observablehq/minimap)
+  * [JavaScript and Observable](https://observablehq.com/@observablehq/learning-observable-javascript-and-observable?collection=@observablehq/intro-to-observable)
+* [A Minimal Introduction to JavaScript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable) - JavaScript basics
+* [Keyboard Shortcuts](https://observablehq.com/@observablehq/keyboard-shortcuts)
+* [Observable/GitHub flavored Markdown summary](https://observablehq.com/@ajlimbert/github-flavored-markdown-cheatsheet-observable)
+
+#### Arquero
+
+* [Introducing Arquero](https://observablehq.com/@uwdata/introducing-arquero)
+  * [Data Transformation](https://observablehq.com/@nyuvis/data-transformation) - preview of Data Transformation in JavaScript and D3
+* [Arquero API Reference](https://uwdata.github.io/arquero/api/)
+* [Arquero Notebook Collection](https://observablehq.com/collection/@uwdata/arquero)
 
 ## Week 3
 
@@ -88,9 +126,39 @@
 
 ### Agenda and Materials
 
+**Mon:**
+
+Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook>  ([in-class version](https://observablehq.com/@oducs-vis/cs725s25-inclass-1))
+
+* we'll be finishing the practice notebook
+
+Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [Vega-Lite JSON style](#vega-lite-json-style) links below
+
 ### Assignment
 
 ### Resources
+
+#### Vega-Lite API style
+
+* [Vega-Lite API Reference](https://vega.github.io/vega-lite-api/api/)
+* [Observable for Vega-Lite](https://observablehq.com/collection/@observablehq/observable-for-vega-lite) - collection of intro notebooks
+  * [Charting with Vega-Lite](https://observablehq.com/@observablehq/vega-lite?collection=@observablehq/observable-for-vega-lite)
+  * [Vega-Lite Chart Types](https://observablehq.com/@observablehq/vega-lite-chart-types?collection=@observablehq/observable-for-vega-lite)  - Week 5 in CS 625
+  * [Layers and Facets and Concat, Oh My!](https://observablehq.com/@observablehq/layers-facets-concat?collection=@observablehq/observable-for-vega-lite)
+* [UW's Data Visualization Curriculum](https://observablehq.com/@uwdata/data-visualization-curriculum) - collection of more detailed notebooks, several covered in CS 625
+  * *won't be directly covered in class, but here for your reference*
+  * including [Introduction to Vega-Lite](https://observablehq.com/@uwdata/introduction-to-vega-lite), [Data Types, Graphical Marks, and Visual Encoding Channels](https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels), [Data Transformation](https://observablehq.com/@uwdata/data-transformation), [Scales, Axes, and Legends](https://observablehq.com/@uwdata/scales-axes-and-legends), [Multi-View Composition](https://observablehq.com/@uwdata/multi-view-composition), [Interaction](https://observablehq.com/@uwdata/interaction)
+* [Vega-Lite API v4](https://observablehq.com/@vega/vega-lite-api) vs. [Vega-Lite API v5](https://observablehq.com/@vega/vega-lite-api-v5)
+* [CS 625 Observable Collection](https://observablehq.com/collection/@oducs-vis/cs625)
+* Learn by example -- use Google to search for examples specifically in Observable, ex: "scatterplot vega-lite site:observablehq.com"
+
+#### Vega-Lite JSON-style
+
+* [Vega-Lite Reference](https://vega.github.io/vega-lite) (JSON-based)
+* [Vega Embed](https://github.com/vega/vega-embed)
+* [Hello Vega-Embed](https://observablehq.com/@vega/hello-vega-embed)
+* [Working with Vega-Lite](https://observablehq.com/@didoesdigital/working-with-vega-lite)
+* [Vega-Lite API vs. JSON Examples](https://observablehq.com/@oducs-vis/vega-lite-api-vs-json?collection=@oducs-vis/cs625) - Week 5 in CS 625
 
 ## Week 4
 
