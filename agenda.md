@@ -84,7 +84,7 @@
 
 **Wed:**
 
-Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook> ([in-class version](https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-spr2025))
+Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook> 
 
 * we'll be working through "Observable Intro" and "Arquero" sections, rest will be discussed next week
 
