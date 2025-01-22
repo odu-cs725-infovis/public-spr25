@@ -122,7 +122,9 @@ Arquero, library for query processing and transformation of array-backed data ta
 
 [Agenda and Materials](#agenda-and-materials-2) | [Assignment](#assignment-2) | [Resources](#resources-2)
 
-### Due (before class)
+### Due Wed (before class)
+
+* Read Enrico Bertini, [From Data Visualization to Interactive Data Analysis](https://medium.com/@FILWD/from-data-visualization-to-interactive-data-analysis-e24ae3751bf3), medium.com, November 2017. ([PDF available in Canvas](https://canvas.odu.edu/files/41678369/))
 
 ### Agenda and Materials
 
@@ -134,7 +136,19 @@ Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oduc
 
 Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [Vega-Lite JSON style](#vega-lite-json-style) links below
 
+**Wed:**
+
+[Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/preview)
+
+* watch visual analytics videos (linked in the slides and under "Visual Analytics Videos" below)
+* discuss Bertini article
+* highlight examples of visual analytics systems
+
 ### Assignment
+
+* HW1 is due next week
+* Review next week's materials before class
+  * in particular, fork and start experimenting with the D3 Observable notebook - *to be posted*
 
 ### Resources
 
@@ -160,11 +174,27 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * [Working with Vega-Lite](https://observablehq.com/@didoesdigital/working-with-vega-lite)
 * [Vega-Lite API vs. JSON Examples](https://observablehq.com/@oducs-vis/vega-lite-api-vs-json?collection=@oducs-vis/cs625) - Week 5 in CS 625
 
+#### Visual Analytics Videos
+
+* Jean-Daniel Fekete, Visual Analytics - Mastering the Information Age, 2010, <https://www.youtube.com/watch?v=5i3xbitEVfs> (7:39)
+* Jeff Hemsley (Syracuse iSchool), What is Visual Analytics?, 2021, <https://www.youtube.com/watch?v=0og3HT8UqD4> (19:00)
+
+#### Examples of Visual Analytics Systems
+
+* [Visual Analysis and Dissemination of Scientific Literature Collections with SurVis](https://ieeexplore.ieee.org/document/7192633), IEEE TVCG 2016
+* [TopicSifter: Interactive Search Space Reduction Through Targeted Topic Modeling](https://arxiv.org/pdf/1907.12079.pdf), IEEE VIS 2019
+* [MineTime Insight: Visualizing Meeting Habits to Promote Informed Scheduling Decisions](https://cgl.ethz.ch/Downloads/Publications/Papers/2019/Anc19b/Anc19b.pdf), IEEE VIS 2020
+* [SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations](http://urban-computing.com/pdf/SmartAdP_Zheng.pdf), IEEE TVCG 2017
+* [PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes](https://arxiv.org/pdf/2009.02464.pdf), IEEE VIS 2020
+* [DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2008.08353.pdf), IEEE VIS 2020
+
 ## Week 4
 
 [Agenda and Materials](#agenda-and-materials-3) | [Assignment](#assignment-3) | [Resources](#resources-3)
 
-### Due (before class)
+### Due Mon (before class)
+
+* HW1
 
 ### Agenda and Materials
 
