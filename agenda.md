@@ -198,9 +198,58 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ### Agenda and Materials
 
+**Mon:**
+
+* D3 Principles and Data Manipulation
+  * [D3 Data Intro](https://observablehq.com/@oducs-vis/d3-data-intro?collection=@oducs-vis/cs-725)
+
+**Wed:**
+
+* IEEE VIS Conferences
+  * slides ([IEEE VIS slides](https://docs.google.com/presentation/d/1Qy17ElNTbgEvvcqxKuAqRMfrifVDPDr8KbKCR5mb6Vw/preview))
+* Reading Academic Papers
+  * slides from CS 800 ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/preview))
+
 ### Assignment
 
+* HW2 -  Data Manipulation - *to be added*
+* Review next week's materials before class
+
 ### Resources
+
+#### D3 Data
+
+* NYU Visualization [Guides and Examples Collection](https://observablehq.com/collection/@nyuvis/guides-and-examples)
+* JavaScript
+  * [Docs @Mozilla Dev Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  * [Docs @W3Schools](https://www.w3schools.com/jsref/jsref_reference.asp)
+  * NYU Vis [JavaScript Basics](https://observablehq.com/@nyuvis/javascript-basics?collection=@nyuvis/guides-and-examples)
+* NYU Vis [Data Transformation](https://observablehq.com/@nyuvis/data-transformation?collection=@nyuvis/guides-and-examples)
+* NYU Vis [SVG and D3 Basics](https://observablehq.com/@nyuvis/d3-introduction?collection=@nyuvis/guides-and-examples)
+
+#### IEEE VIS
+
+* IEEE VIS YouTube channel, <https://www.youtube.com/@IEEEVisualizationConference/featured>
+* IEEE VIS main website, <https://www.ieeevis.org>
+* IEEE Xplore (ODU proxy) - <https://ieeexplore-ieee-org.proxy.lib.odu.edu/Xplore/home.jsp>
+* [IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://www.computer.org/csdl/journal/tg)
+  * [TVCG @ IEEE Xplore](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/RecentIssue.jsp?punumber=2945)
+* [Vispubdata](https://sites.google.com/site/vispubdata/home)
+
+#### Reading Academic Papers
+
+* [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
+* Example of off-campus access to ACM Digital Library, <https://dl-acm-org.proxy.lib.odu.edu/doi/abs/10.5555/1218112.1218509>
+* Example of off-campus access to IEEE Xplore, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/6970187>
+* Fatcat, <https://fatcat.wiki/>
+* Internet Archive Scholar, <https://scholar.archive.org/>
+* S. Keshav, [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+* [Reading Papers](https://www.cs.odu.edu/~mweigle/courses/JFB_03_reading_papers.pdf), lecture slides from Dr. Brunelle's CS 891, Spring 2019
+* William Griswold, [How to Read an Engineering Research Paper](http://www.cs.ucsd.edu/users/wgg/CSE210/howtoread.html)
+* [Example of marking up a paper](https://drive.google.com/open?id=1UQeT9o-IvLhp5RAv1vAJ7DS-lXQdNW7E)
+* Jason Eisner, [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
+* Michael Mitzenmacher, [How to Read a Research Paper](http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+* Tia Newhall, [Some Tips for Reading Research Papers](http://www.cs.swarthmore.edu/~newhall/cs97/s00/ReadingAdvice.html)
 
 ## Week 5
 
