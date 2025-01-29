@@ -138,6 +138,8 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 **Wed:**
 
+Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observablehq.com/@observablehq/layers-facets-concat> from [Observable for Vega-Lite collection](https://observablehq.com/collection/@observablehq/observable-for-vega-lite)
+
 [Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/preview)
 
 * watch visual analytics videos (linked in the slides and under "Visual Analytics Videos" below)
