@@ -202,6 +202,8 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 **Mon:**
 
+* [Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/preview)
+  * highlight examples of visual analytics systems (see [Resources for Week 3](#resources-2))
 * D3 Principles and Data Manipulation
   * [D3 Data Intro](https://observablehq.com/@oducs-vis/d3-data-intro?collection=@oducs-vis/cs-725)
 
