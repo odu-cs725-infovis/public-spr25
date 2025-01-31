@@ -216,7 +216,7 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 ### Assignment
 
-* HW2 -  Data Manipulation - *to be added*
+* [HW2 -  Data Manipulation](HW2-data.md)
 * Review next week's materials before class
 
 ### Resources
@@ -258,6 +258,10 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 ## Week 5
 
 [Agenda and Materials](#agenda-and-materials-4) | [Assignment](#assignment-4) | [Resources](#resources-4)
+
+### Due Mon (before class)
+
+* HW2
 
 ### Agenda and Materials
 
