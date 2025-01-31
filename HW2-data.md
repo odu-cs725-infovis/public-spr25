@@ -36,14 +36,13 @@ First, briefly describe the dataset you've chosen. Discuss the most important at
 
 **Q5.** Demonstrate the use of Arquero's `groupby()` and `rollup()` functions on your dataset. Explain in words what your operations are trying to show (or what question you're trying to answer).
 
-**Q6.** Take at least three non-nominal (i.e., non-categorical) attributes in your dataset and use D3 functions (`d3.min`, `d3.max`, or `d3.extent`) to determine the range of values (i.e., min and max) in each of those attributes. One these attributes must be temporal and use a `Date` object.
+**Q6.** Use Arquero to create a derived attribute on your data. The function to compute the derived attribute should use at least one of Arquero's `op` operators. Explain in words what the derived attribute represents.
 
-**Q7.** Use Arquero to create a derived attribute on your data. The function to compute the derived attribute should use at least one of Arquero's `op`
- operators. Explain in words what the derived attribute represents.
+**Q7.** Find or create a second dataset that shares a key with your dataset. Demonstrate the use of Arquero's `join()` (or filtered join with `semijoin()` or `antijoin()`). Explain in words how you have combined the two datasets. (Note: We did not cover this in class, but see the Introducing Aquero notebook section ["Blend datasets with `join()`](https://observablehq.com/@uwdata/introducing-arquero#cell-525) for reference.)
 
-**Q8.** Find or create a second dataset that shares a key with your dataset. Demonstrate the use of Arquero's `join()` (or filtered join with `semijoin()` or `antijoin()`). Explain in words how you have combined the two datasets. (Note: We did not cover this in class, but see the Introducing Aquero notebook section ["Blend datasets with `join()`](https://observablehq.com/@uwdata/introducing-arquero#cell-525) for reference.)
+**Q8.** Use Vega-Lite to create a chart from the resulting dataset from **Q5** (groupby/rollup), **Q6** (derived attribute), or **Q7** (joined data). The type of chart is up to you. Use appropriate axis labels, title, and tooltips. Explain your chart and how your data is mapped to the marks and channels.
 
-**Q9.** Use Vega-Lite to create a chart from the resulting dataset from **Q5** (groupby/rollup), **Q7** (derived attribute), or **Q8** (joined data). The type of chart is up to you. Use appropriate axis labels, title, and tooltips. Explain your chart and how your data is mapped to the marks and channels.
+**Q9.** Take at least three non-nominal (i.e., non-categorical) attributes in your dataset and use D3 functions (`d3.min`, `d3.max`, or `d3.extent`) to determine the range of values (i.e., min and max) in each of those attributes. One these attributes must be temporal and use a `Date` object.
 
 ## Evaluation Criteria
 
