@@ -235,6 +235,8 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 * IEEE VIS YouTube channel, <https://www.youtube.com/@IEEEVisualizationConference/featured>
 * IEEE VIS main website, <https://www.ieeevis.org>
+* IEEE VIS area model, <https://ieeevis.org/year/2023/info/call-participation/area-model> - describes types of papers accepted along with examples
+* Jessica Hullman's "A Visualization Research Story" - 10 years of IEEE VIS, <https://medium.com/multiple-views-visualization-research-explained/a-personal-visualization-research-story-213a95b1830c>
 * IEEE Xplore (ODU proxy) - <https://ieeexplore-ieee-org.proxy.lib.odu.edu/Xplore/home.jsp>
 * [IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://www.computer.org/csdl/journal/tg)
   * [TVCG @ IEEE Xplore](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/RecentIssue.jsp?punumber=2945)
@@ -245,8 +247,8 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 * [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
 * Example of off-campus access to ACM Digital Library, <https://dl-acm-org.proxy.lib.odu.edu/doi/abs/10.5555/1218112.1218509>
 * Example of off-campus access to IEEE Xplore, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/6970187>
-* Fatcat, <https://fatcat.wiki/>
-* Internet Archive Scholar, <https://scholar.archive.org/>
+* Fatcat, <https://scholar.archive.org/fatcat/>
+* Internet Archive Scholar, <https://scholar.archive.org/> - built on top of the Fatcat catalog
 * S. Keshav, [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 * [Reading Papers](https://www.cs.odu.edu/~mweigle/courses/JFB_03_reading_papers.pdf), lecture slides from Dr. Brunelle's CS 891, Spring 2019
 * William Griswold, [How to Read an Engineering Research Paper](http://www.cs.ucsd.edu/users/wgg/CSE210/howtoread.html)
