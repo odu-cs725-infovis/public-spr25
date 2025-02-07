@@ -282,7 +282,7 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
   
 * [HW3 - D3 Scales and SVG](HW3-scales.md)
 * [Academic Paper Presentation](presentation.md)
-  * suggested papers list
+  * [suggested papers list](papers.md)
 * Review next week's materials before class
 
 ### Resources
