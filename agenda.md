@@ -279,10 +279,9 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
   * slides from CS 800 ([Week-06-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview))
 
 ### Assignment
-  *to be added*
   
-* HW3
-* Academic Paper Presentation
+* [HW3 - D3 Scales and SVG](HW3-scales.md)
+* [Academic Paper Presentation](presentation.md)
   * suggested papers list
 * Review next week's materials before class
 
