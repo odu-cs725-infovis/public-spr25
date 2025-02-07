@@ -56,3 +56,24 @@ Your assignment will be evaluated on the following criteria:
 ## Submission
 
 Submit the URL of your Observable notebook in the HW2 Assignment in Canvas.
+
+### Note about Using Observable
+
+You must be a member of the @oducs-vis Observable Team (https://observablehq.com/@oducs-vis) to submit this assignment.  If you are not already a member, create an Observable account and email me your username (it should be something related to your name so that I can verify who you are).  Once you've been added to our Observable Team, you can create private notebooks that you can use for your homework assignments.
+
+To create a new private notebook:
+
+* start at https://observablehq.com/@oducs-vis
+* click New
+* make sure **Workspace** is set to "ODUCS Vis" and **Visibility** is set to "Only You"
+* click Create Notebook
+
+To share with your instructor (for help or for grading):
+
+* click Share
+* in the **Search for a teammate** box, enter weiglemc
+* choose "Can Edit"
+* click Add
+* click Save
+
+Note that after the semester, you will be removed from the Team. I'll send an email to remind you and give you time to copy your notebooks elsewhere before that happens (you can transfer ownership to your own account). I would appreciate that you remove mention of CS 725/825 from the notebooks before making them public.
