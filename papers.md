@@ -39,6 +39,8 @@ At the bottom, I have a list of papers that were presented in class in recent ye
 17. Using Counterfactuals to Improve Causal Inferences From Visualizations
     * <https://ieeevis.org/year/2024/program/paper_v-cga-10414267.html>
     * David Gotz (my friend from grad school at UNC)
+1. The Effect of Visual Aids on Reading Numeric Data Tables
+     * <https://ieeevis.org/year/2024/program/paper_v-full-1288.html>
 
 ## IEEE VIS 2023
 
