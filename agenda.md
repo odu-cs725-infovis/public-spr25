@@ -316,13 +316,68 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 [Agenda and Materials](#agenda-and-materials-5) | [Assignment](#assignment-5) | [Resources](#resources-5)
 
-### Due (before class)
+### Due Mon (before class)
+
+* HW3
+
+### Due Wed (before class)
+
+* *Skim* Heer and Shneiderman, [Interactive Dynamics for Visual Analysis](https://queue.acm.org/detail.cfm?id=2146416) ([CACM pdf](https://idl.cs.washington.edu/files/2012-InteractiveDynamics-CACM.pdf)), *Communications of the ACM*, vol. 55, no. 4, 2012, pgs. 45-54
+* *Watch* the videos [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26) and [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
 
 ### Agenda and Materials
 
+**Mon:**
+
+* D3 Vis Intro
+  * [Bar Chart](https://observablehq.com/@oducs-vis/d3-intro-bar-chart?collection=@oducs-vis/cs-725) ([supplemental slides](https://docs.google.com/presentation/d/1r_hh5f0sdSrxXYb-UJGSu-OlG1U65H32pAgraMVDVg0/preview))
+  * [Scatterplot](https://observablehq.com/@oducs-vis/d3-intro-scatterplot?collection=@oducs-vis/cs-725)
+  * [Line and Area Charts](https://observablehq.com/@oducs-vis/d3-intro-line-and-area-charts?collection=@oducs-vis/cs-725)
+  * [Layered Line and Area Charts](https://observablehq.com/@oducs-vis/d3-intro-layered-line-and-area-charts?collection=@oducs-vis/cs-725)
+  * [Multi-Line Chart Arquero Data Setup](https://observablehq.com/@oducs-vis/multi-line-chart-arquero-data-setup?collection=@oducs-vis/cs-725)
+
+**Wed:**
+
+* Handling Complexity in Data, [Complexity slides](https://docs.google.com/presentation/d/1YRXiqL7U1YXw5eXBtpmQphD8aJsWhNPrCQkyQrxfG1Y/preview)
+* [Clustering slides](https://docs.google.com/presentation/d/1UWOzrw_93Rx4bNY5PSU0HeVF8UKd0SBU-OWnjp4vFj8/preview)
+  * [Clustering Example with Vega-Lite](https://observablehq.com/@oducs-vis/vega-lite-clustering-example?collection=@oducs-vis/cs-725)
+
 ### Assignment
 
+* HW4 - Intro to D3 - *to be posted*
+* Review next week's materials before class
+
 ### Resources
+
+#### D3 Vis
+
+* [CS 725/825 Observable Collection](https://observablehq.com/collection/@oducs-vis/cs-725) - public notebooks for this semester
+* [D3 Lessons](http://lessons.vaclab.unc.edu/), UNC INLS 641 Visual Analytics, David Gotz
+* [NYU Vis Bar Chart Walkthrough](https://observablehq.com/@nyuvis/bar-chart-walk-through)
+* [NYU Vis SVG and D3 Basics Practice](https://observablehq.com/@nyuvis/svg-and-d3-basics-practice-solutions) - scatterplot
+* [NYU Vis Lines and Maps](https://observablehq.com/@nyuvis/lines-and-maps) - line and area charts
+* [NYT Vis Graphical Encoding Examples](https://observablehq.com/@nyuvis/graphical-encoding-examples) - layered line charts, small multiple area charts
+* [Arquero and D3](https://observablehq.com/@uwdata/arquero-and-d3?collection=@uwdata/arquero)
+* [Multi-line chart data preparation in Arquero](https://observablehq.com/@uwdata/multi-line-chart-data-preparation)
+* [Multi-line chart D3 template](https://observablehq.com/@d3/multi-line-chart/2)
+
+#### Handling Complexity
+
+* Tamara Munzner's VAD lectures
+  * [Ch 11/12 Interactive Views, p1](https://www.youtube.com/watch?v=dHSYXZMY96s&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=19) (25:38)
+  * [Ch 11/12 Interactive Views, p2](https://www.youtube.com/watch?v=hxBRDRf_rTM&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=20) (29:27)
+  * [Ch 13 Reduce: Aggregation and Filtering](https://www.youtube.com/watch?v=3KjGpVo6JDU&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=21) (24:39)
+  * [Ch 14 Embed: Focus + Context](https://www.youtube.com/watch?v=A6NfuuAlENc&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=22) (8:53)
+
+#### Clustering
+
+* Segaran, [*Programming Collective Intelligence*](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/) - textbook used in CS 432/532, includes lots of Python code examples
+* [Flat and Hierarchical Clustering | The Dendrogram Explained video](https://www.youtube.com/watch?v=ijUMKMC4f9I)
+* K-Means
+  * [K-means Clustering Example](https://medium.com/towards-data-science/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203) - similar to slide 13 in Clustering slides
+  * [K-Means Walkthrough in Observable](https://observablehq.com/@andreaskdk/k-means)
+  * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
+  * [K Means Clustering: Pros and Cons of K Means Clustering video](https://www.youtube.com/watch?v=YIGtalP1mv0) - watch up to time 4:44
 
 ## Week 7
 
