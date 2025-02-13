@@ -31,7 +31,7 @@ students = [
 For some of the questions, you'll need to use `visualizeTicks()` and `swatches()`. For this, include the following statements in your Appendix section:
 ```js
 import {visualizeTicks} from "@d3/continuous-scales"
-import {swatches} from "@d3/color-legend"
+import {Swatches} from "@d3/color-legend"
 ```
 
 ### Questions/Tasks
