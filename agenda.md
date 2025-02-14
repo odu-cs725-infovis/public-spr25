@@ -344,7 +344,7 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 ### Assignment
 
-* HW4 - Intro to D3 - *to be posted*
+* [HW4 - Intro to D3](HW4-D3.md)
 * Review next week's materials before class
 
 ### Resources

@@ -8,7 +8,7 @@ MW 3-4:15pm, [ECSB](https://odu.edu/life/buildings/buildings/ecsb) 2120 and onli
 
 [CS725 Collection at Observable](https://observablehq.com/collection/@oducs-vis/cs-725)
 
-<!--* [Paper Presentation Schedule](https://canvas.odu.edu/courses/132393/pages/paper-presentation-schedule)-->
+[Paper Presentation Schedule](https://canvas.odu.edu/courses/177607/pages/paper-presentation-schedule)
 
 [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
 
@@ -30,11 +30,11 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[3](agenda.md#week-3)|Jan 27, 29|Mon: Vega-Lite Refresher<br/>Wed: Visual Analytics Principles | |  |
 |[4](agenda.md#week-4)|Feb 3,   5|Mon: D3 Principles and Data Manipulation<br/>Wed: IEEE VIS Conferences, Reading Academic Papers| [HW2](HW2-data.md) | HW1 |
 |[5](agenda.md#week-5)|Feb 10, 12| Mon: D3 Vis Intro<br/>Wed: Giving Presentations | [HW3](HW3-scales.md)<br/>[paper presentation](presentation.md) | HW2 |
-|[6](agenda.md#week-6)|Feb 17, 19| Mon: D3 Vis<br/>Wed: Handling Complexity in Data| HW4 |  HW3 |
+|[6](agenda.md#week-6)|Feb 17, 19| Mon: D3 Vis<br/>Wed: Handling Complexity in Data| [HW4](HW4-D3.md) |  HW3 |
 |[7](agenda.md#week-7)|Feb 24, 26|Mon/Wed: Interactivity in Vega-Lite and D3|  | paper selection |
 |[8](agenda.md#week-8)|Mar  3,  5|Mon: Dashboard Design<br/>Wed: Implementing Dashboards in Vega-Lite and D3 | HW5<br/>project | HW4 |
 ||Mar 10, 12|**NO CLASS - Spring Break** | | |
-|[9](agenda.md#week-9)|Mar 17, 19| Visualizing Uncertainty, Network and Tree Visualization, Project Discussion| | HW5|
+|[9](agenda.md#week-9)|Mar 17, 19| Visualizing Uncertainty, Network and Tree Visualization, Project Discussion| | HW5 (Wed)|
 |[10](agenda.md#week-10)|Mar 24, 26|TBA | |project topic selection |
 |[11](agenda.md#week-11)|  Mar 31, Apr 2|VIS Paper Presentations| | project audience/tasks  |
 |[12](agenda.md#week-12)| Apr 7, 9|VIS Paper Presentations | | |
