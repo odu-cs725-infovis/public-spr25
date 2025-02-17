@@ -69,8 +69,6 @@ At the bottom, I have a list of papers that were presented in class in recent ye
     * Authors: Nils Rodrigues, Christoph Schulz, Sören Döring, Daniel Baumgartner, Tim Krake, Daniel Weiskopf
 1. Designing with Pictographs: Envision Topics without Sacrificing Understanding  
     * Authors: Alyxander Burns, Cindy Xiong, Steven Franconeri, Alberto Cairo, Narges Mahyar
-1. Dashboard Design Patterns  
-    * Authors: Benjamin Bach, Euan Freeman, Alfie Abdul-Rahman, Cagatay Turkay, Saiful Khan, Yulei Fan, Min Chen
 1. BeauVis: A Validated Scale for Measuring the Aesthetic Pleasure of Visual Representations  
     * Authors: Tingying He, Petra Isenberg, Raimund Dachselt, Tobias Isenberg
 1. Photosensitive Accessibility for Interactive Data Visualizations  
