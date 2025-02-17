@@ -374,7 +374,7 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 * Segaran, [*Programming Collective Intelligence*](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/) - textbook used in CS 432/532, includes lots of Python code examples
 * [Flat and Hierarchical Clustering | The Dendrogram Explained video](https://www.youtube.com/watch?v=ijUMKMC4f9I)
 * K-Means
-  * [K-means Clustering Example](https://medium.com/towards-data-science/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203) - similar to slide 13 in Clustering slides
+  * [K-means Clustering Example](https://medium.com/towards-data-science/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203) - similar to slide 10 in Clustering slides
   * [K-Means Walkthrough in Observable](https://observablehq.com/@andreaskdk/k-means)
   * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
   * [K Means Clustering: Pros and Cons of K Means Clustering video](https://www.youtube.com/watch?v=YIGtalP1mv0) - watch up to time 4:44
