@@ -421,6 +421,8 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 #### Interaction in D3
 
 * [Interaction - D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples) - notebook from NYU Vis
+  * Line chart with tooltip, <https://observablehq.com/@d3/line-with-tooltip/2>
+  * Line chart with tooltip and multiple series, <https://observablehq.com/@d3/multi-line-chart/2>
 * [JavaScript Event reference](https://developer.mozilla.org/en-US/docs/Web/Events#Standard_events)
 * [Introduction to views](https://observablehq.com/@observablehq/introduction-to-views) - Observable specific
 * [d3-brush docs](https://github.com/d3/d3-brush)
