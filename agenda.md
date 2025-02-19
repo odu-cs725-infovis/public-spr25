@@ -320,11 +320,6 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 * HW3
 
-### Due Wed (before class)
-
-* *Skim* Heer and Shneiderman, [Interactive Dynamics for Visual Analysis](https://queue.acm.org/detail.cfm?id=2146416) ([CACM pdf](https://idl.cs.washington.edu/files/2012-InteractiveDynamics-CACM.pdf)), *Communications of the ACM*, vol. 55, no. 4, 2012, pgs. 45-54
-* *Watch* the videos [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26) and [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
-
 ### Agenda and Materials
 
 **Mon:**
@@ -336,11 +331,7 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
   * [Layered Line and Area Charts](https://observablehq.com/@oducs-vis/d3-intro-layered-line-and-area-charts?collection=@oducs-vis/cs-725)
   * [Multi-Line Chart Arquero Data Setup](https://observablehq.com/@oducs-vis/multi-line-chart-arquero-data-setup?collection=@oducs-vis/cs-725)
 
-**Wed:**
-
-* Handling Complexity in Data, [Complexity slides](https://docs.google.com/presentation/d/1YRXiqL7U1YXw5eXBtpmQphD8aJsWhNPrCQkyQrxfG1Y/preview)
-* [Clustering slides](https://docs.google.com/presentation/d/1UWOzrw_93Rx4bNY5PSU0HeVF8UKd0SBU-OWnjp4vFj8/preview)
-  * [Clustering Example with Vega-Lite](https://observablehq.com/@oducs-vis/vega-lite-clustering-example?collection=@oducs-vis/cs-725)
+**Wed: NO CLASS - SNOW!**
 
 ### Assignment
 
@@ -361,6 +352,40 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 * [Multi-line chart data preparation in Arquero](https://observablehq.com/@uwdata/multi-line-chart-data-preparation)
 * [Multi-line chart D3 template](https://observablehq.com/@d3/multi-line-chart/2)
 
+## Week 7
+
+[Agenda and Materials](#agenda-and-materials-6) | [Assignment](#assignment-6) | [Resources](#resources-6)
+
+### Due Mon (before class)
+
+* *Skim* Heer and Shneiderman, [Interactive Dynamics for Visual Analysis](https://queue.acm.org/detail.cfm?id=2146416) ([CACM pdf](https://idl.cs.washington.edu/files/2012-InteractiveDynamics-CACM.pdf)), *Communications of the ACM*, vol. 55, no. 4, 2012, pgs. 45-54
+* *Skim* [UW Interaction notebook](https://observablehq.com/@uwdata/interaction)
+
+### Due Wed (before class)
+
+* Paper selection for presentation
+* *Skim* [NYUVis D3 Interaction notebook](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples)
+
+### Agenda and Materials
+
+**Mon:**
+
+* [Multi-Line Chart Arquero Data Setup](https://observablehq.com/@oducs-vis/multi-line-chart-arquero-data-setup?collection=@oducs-vis/cs-725)
+* Handling Complexity in Data: [Complexity slides](https://docs.google.com/presentation/d/1YRXiqL7U1YXw5eXBtpmQphD8aJsWhNPrCQkyQrxfG1Y/preview)
+* Interaction in Vega-Lite
+  * [UW Interaction notebook](https://observablehq.com/@uwdata/interaction)
+  * CS 725 [Interaction in Vega-Lite examples](https://observablehq.com/@oducs-vis/vega-lite-interaction)
+
+**Wed:**
+
+* Interaction in D3 - [NYU Vis Interaction notebook](https://observablehq.com/@nyuvis/interaction)
+
+### Assignment
+
+* Review next week's materials before class
+
+### Resources
+
 #### Handling Complexity
 
 * Tamara Munzner's VAD lectures
@@ -369,27 +394,38 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
   * [Ch 13 Reduce: Aggregation and Filtering](https://www.youtube.com/watch?v=3KjGpVo6JDU&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=21) (24:39)
   * [Ch 14 Embed: Focus + Context](https://www.youtube.com/watch?v=A6NfuuAlENc&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=22) (8:53)
 
-#### Clustering
+#### Interactivity in Vega-Lite
 
-* Segaran, [*Programming Collective Intelligence*](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/) - textbook used in CS 432/532, includes lots of Python code examples
-* [Flat and Hierarchical Clustering | The Dendrogram Explained video](https://www.youtube.com/watch?v=ijUMKMC4f9I)
-* K-Means
-  * [K-means Clustering Example](https://medium.com/towards-data-science/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203) - similar to slide 10 in Clustering slides
-  * [K-Means Walkthrough in Observable](https://observablehq.com/@andreaskdk/k-means)
-  * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
-  * [K Means Clustering: Pros and Cons of K Means Clustering video](https://www.youtube.com/watch?v=YIGtalP1mv0) - watch up to time 4:44
+* [Interaction in Vega-Lite](https://observablehq.com/@uwdata/interaction) - notebook from UW IDL
+* [Intro to Interactions in Vega-Lite](https://observablehq.com/@jonfroehlich/intro-to-interaction-in-vega-lite) by Jon Froehlich - complements original UW notebook and includes more complex examples, including
+  * more examples and explanations of `params()`
+  * combining multiple selections
+  * legend binding (click on legend to interact with chart)
+  * using Observable Inputs with Vega-Lite
+* Vega-Lite v5 updates - <https://github.com/vega/vega-lite/releases/tag/v5.0.0> (moves from using `selection` to `params`)
+  * Selection Parameters section in Dynamic Behaviors with Parameters, <https://vega.github.io/vega-lite/docs/parameter.html#select>
+* [Vega-Lite API v5 Selection Methods Examples](https://observablehq.com/@weiglemc/vega-lite-api-v5-selection)
+  * based on [Vega-Lite API Selection Methods](https://observablehq.com/@john-guerra/vega-lite-selection-methods), which uses Vega-Lite v4
+* Docs
+  * <https://vega.github.io/vega-lite-api/api/#parameters>
+  * <https://vega.github.io/vega-lite-api/api/#parameter-bindings>
+  * <https://vega.github.io/vega/docs/event-streams/>
+  * <https://vega.github.io/vega-lite/examples/#interactive>
 
-## Week 7
+#### Observable Inputs
 
-[Agenda and Materials](#agenda-and-materials-6) | [Assignment](#assignment-6) | [Resources](#resources-6)
+* [Observable Inputs reference](https://observablehq.com/@observablehq/inputs?collection=@observablehq/libraries)
+* [Hello, Inputs!](https://observablehq.com/@observablehq/hello-inputs) - examples
+* <https://observablehq.com/@mbostock/scrubber>
 
-### Due (before class)
+#### Interaction in D3
 
-### Agenda and Materials
-
-### Assignment
-
-### Resources
+* [Interaction - D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples) - notebook from NYU Vis
+* [JavaScript Event reference](https://developer.mozilla.org/en-US/docs/Web/Events#Standard_events)
+* [Introduction to views](https://observablehq.com/@observablehq/introduction-to-views) - Observable specific
+* [d3-brush docs](https://github.com/d3/d3-brush)
+* [d3-brush examples](https://observablehq.com/collection/@d3/d3-brush)
+* [Introduction to D3, Part 2](https://observablehq.com/@uwdata/introduction-to-d3-part-2) - includes interaction
 
 ## Week 8
 
@@ -411,15 +447,30 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 ### Due (before class)
 
+* *Watch* the videos [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26) and [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
+
 ### Agenda and Materials
 
 **Mon:**
 
 **Wed:**
 
+* [Clustering slides](https://docs.google.com/presentation/d/1UWOzrw_93Rx4bNY5PSU0HeVF8UKd0SBU-OWnjp4vFj8/preview)
+  * [Clustering Example with Vega-Lite](https://observablehq.com/@oducs-vis/vega-lite-clustering-example?collection=@oducs-vis/cs-725)
+
 ### Assignment
 
 ### Resources
+
+#### Clustering
+
+* Segaran, [*Programming Collective Intelligence*](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/) - textbook used in CS 432/532, includes lots of Python code examples
+* [Flat and Hierarchical Clustering | The Dendrogram Explained video](https://www.youtube.com/watch?v=ijUMKMC4f9I)
+* K-Means
+  * [K-means Clustering Example](https://medium.com/towards-data-science/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203) - similar to slide 10 in Clustering slides
+  * [K-Means Walkthrough in Observable](https://observablehq.com/@andreaskdk/k-means)
+  * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
+  * [K Means Clustering: Pros and Cons of K Means Clustering video](https://www.youtube.com/watch?v=YIGtalP1mv0) - watch up to time 4:44
 
 ## Week 10
 
