@@ -374,10 +374,15 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 * Handling Complexity in Data: [Complexity slides](https://docs.google.com/presentation/d/1YRXiqL7U1YXw5eXBtpmQphD8aJsWhNPrCQkyQrxfG1Y/preview)
 * Interaction in Vega-Lite
   * [UW Interaction notebook](https://observablehq.com/@uwdata/interaction)
+  * [Froelich's Intro to Interaction notebook](https://observablehq.com/@jonfroehlich/intro-to-interaction-in-vega-lite)
   * CS 725 [Interaction in Vega-Lite examples](https://observablehq.com/@oducs-vis/vega-lite-interaction)
 
 **Wed:**
 
+* Interaction in Vega-Lite
+  * [UW Interaction notebook](https://observablehq.com/@uwdata/interaction)
+  * [Froelich's Intro to Interaction notebook](https://observablehq.com/@jonfroehlich/intro-to-interaction-in-vega-lite)
+  * CS 725 [Interaction in Vega-Lite examples](https://observablehq.com/@oducs-vis/vega-lite-interaction)
 * Interaction in D3 - [NYU Vis Interaction notebook](https://observablehq.com/@nyuvis/interaction)
 
 ### Assignment
