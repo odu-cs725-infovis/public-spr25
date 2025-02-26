@@ -426,7 +426,8 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 #### Interaction in D3
 
 * [Interaction - D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples) - notebook from NYU Vis
-  * Line chart with tooltip, <https://observablehq.com/@d3/line-with-tooltip/2>
+  * includes example of adding grid lines to xAxis and yAxis
+* Line chart with tooltip, <https://observablehq.com/@d3/line-with-tooltip/2> / my implementation, <https://observablehq.com/d/c8904c505e28c82a>
   * Line chart with tooltip and multiple series, <https://observablehq.com/@d3/multi-line-chart/2>
 * [JavaScript Event reference](https://developer.mozilla.org/en-US/docs/Web/Events#Standard_events)
 * [Introduction to views](https://observablehq.com/@observablehq/introduction-to-views) - Observable specific
@@ -449,15 +450,16 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 **Mon:**
 
-* Counterfactuals
-  * Gotz et al., "Improving Visualization Interpretation Using Counterfactuals", IEEE VIS 2021, <https://vaclab.unc.edu/publication/tvcg_2022_kaul/tvcg_2022_kaul.pdf>
-  * Video of presentation: <https://vimeo.com/640020787> (10:55)
 * Dashboard Design
   * "What Do We Talk About When We Talk About Dashboards?", VIS 2018 video, <https://vimeo.com/299862354> (12:50)
   * "Dashboard Design Patterns", VIS 2022 presentation <https://www.youtube.com/watch?v=n6qWuzk3u0k&t=3008s> (12m), pre-precorded video <https://www.youtube.com/watch?v=P70kXAco3Qo> (14:12)
   * Dashboard Design Patterns website, <https://dashboarddesignpatterns.github.io/>
   * Bakusevych, [10 Rules for Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
   * Tableau Help, [Best Visual Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)
+* Finish Interaction in D3 - [NYU Vis Interaction notebook](https://observablehq.com/@nyuvis/interaction)
+* Counterfactuals (if time)
+  * Gotz et al., "Improving Visualization Interpretation Using Counterfactuals", IEEE VIS 2021, <https://vaclab.unc.edu/publication/tvcg_2022_kaul/tvcg_2022_kaul.pdf>
+  * Video of presentation: <https://vimeo.com/640020787> (10:55)
 
 **Wed:**
 
