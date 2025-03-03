@@ -470,8 +470,8 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 ### Assignment
 
 * Table Scraps video and discussion - see Canvas Discussions
-* [HW5](HW5-dashboard.md) - Dashboards and Interaction - *link to be updated*
-* [Project: Interactive Dashboard Visualization](project.md) - *link to be updated*
+* [HW5](HW5-dashboard.md) - Dashboards and Interaction
+* [Project: Interactive Dashboard Visualization](project.md)
 * *Next week is Spring Break!*
 
 ### Resources
