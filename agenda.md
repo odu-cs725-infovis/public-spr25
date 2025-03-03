@@ -456,16 +456,16 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
   * Dashboard Design Patterns website, <https://dashboarddesignpatterns.github.io/>
   * Bakusevych, [10 Rules for Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
   * Tableau Help, [Best Visual Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)
-* Finish Interaction in D3 - [NYU Vis Interaction notebook](https://observablehq.com/@nyuvis/interaction)
-* Counterfactuals (if time)
-  * Gotz et al., "Improving Visualization Interpretation Using Counterfactuals", IEEE VIS 2021, <https://vaclab.unc.edu/publication/tvcg_2022_kaul/tvcg_2022_kaul.pdf>
-  * Video of presentation: <https://vimeo.com/640020787> (10:55)
+* Continue Interaction in D3 - [NYU Vis Interaction notebook](https://observablehq.com/@nyuvis/interaction)
 
 **Wed:**
 
-* Implementing Dashboards
-  * [Vega-Lite Dashboard with Brushing and Linking](https://observablehq.com/@oducs-vis/vega-lite-dashboard-with-brushing-and-linking?collection=@oducs-vis/cs-725)
-  * [D3 Dashboard with Brushing and Linking](https://observablehq.com/@oducs-vis/d3-dashboard-with-brushing-and-linking?collection=@oducs-vis/cs-725)
+* [Vega-Lite Dashboard with Brushing and Linking](https://observablehq.com/@oducs-vis/vega-lite-dashboard-with-brushing-and-linking?collection=@oducs-vis/cs-725)
+* Finish Interaction in D3 - [NYU Vis Interaction notebook](https://observablehq.com/@nyuvis/interaction)
+* [D3 Dashboard with Brushing and Linking](https://observablehq.com/@oducs-vis/d3-dashboard-with-brushing-and-linking?collection=@oducs-vis/cs-725)
+* Counterfactuals (if time)
+  * Gotz et al., "Improving Visualization Interpretation Using Counterfactuals", IEEE VIS 2021, <https://vaclab.unc.edu/publication/tvcg_2022_kaul/tvcg_2022_kaul.pdf>
+  * Video of presentation: <https://vimeo.com/640020787> (10:55)
 
 ### Assignment
 
