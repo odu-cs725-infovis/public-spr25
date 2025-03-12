@@ -482,22 +482,48 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 [Agenda and Materials](#agenda-and-materials-8) | [Assignment](#assignment-8) | [Resources](#resources-8)
 
-### Due (before class)
+### Due Wed (before class)
 
+* HW5
+* Review Ch 9 in *Visualization Analysis & Design* (textbook link in the Syllabus)
 * *Watch* the videos [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26) and [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
 
 ### Agenda and Materials
 
 **Mon:**
 
+* Project Assignment Discussion
+* Visualizing Uncertainty
+  * [Uncertainty slides](https://docs.google.com/presentation/d/1sAO0ARfRDhF1I2014zqnoqSzTuM7H9_9PLpJRPPuexg/preview)
+
 **Wed:**
 
+* Table Scraps paper/video discussion
+  * video - <https://www.youtube.com/watch?v=woyuvqUu52I>
+  * [Table Scraps: An Actionable Framework for Multi-Table Data Wrangling From An Artifact Study of Computational Journalism](http://www.cs.ubc.ca/group/infovis/pubs/2020/table-scraps/), IEEE VIS 2020
+  * Open Journalism GitHub, <https://github.com/silva-shih/open-journalism>
 * [Clustering slides](https://docs.google.com/presentation/d/1UWOzrw_93Rx4bNY5PSU0HeVF8UKd0SBU-OWnjp4vFj8/preview)
-  * [Clustering Example with Vega-Lite](https://observablehq.com/@oducs-vis/vega-lite-clustering-example?collection=@oducs-vis/cs-725)
+  * [Clustering Example with Vega-Lite](https://observablehq.com/@oducs-vis/vega-lite-clustering-example)
+  * [MDS Example with Vega-Lite](https://observablehq.com/@oducs-vis/mds-example-with-vega-lite)
+* Network and Tree Vis
+  * [Networks and Trees slides](https://docs.google.com/presentation/d/1O6K14vhHuoEBwUbcDFSHq0nKZYPN-bqMyYa_cPfT_Eg/preview)
 
 ### Assignment
 
 ### Resources
+
+#### Visualizing Uncertainty Slide References
+
+* Nicole Torres, ["Why It’s So Hard for Us to Visualize Uncertainty"](https://hbr.org/2016/11/why-its-so-hard-for-us-to-visualize-uncertainty), Harvard Business Review,  
+* Nathan Yau, ["Visualizing the Uncertainty in Data"](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
+* Nathan Yau, ["Showing uncertainty during the live election forecast"](https://flowingdata.com/2016/11/15/showing-uncertainty-during-the-live-election-forecast/)
+* [Live Presidential Forecast](https://www.nytimes.com/elections/2016/forecast/president), *NY Times*
+* [Lace Padilla](https://www.lacepadilla.com/), Assistant Professor of Computer Science and Psychology, Northeastern University
+* [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/), Associate Professor of Computer Science, Northwestern University
+* Lace Padilla, Matthew Key, and Jessica Hullman, ["Uncertainty Visualization"](https://psyarxiv.com/ebd6r), in *Handbook of Computational Statistics and Data Science*, book chapter preprint  
+* Lace Padilla, "How to Read Uncertainty Visualizations", [video](https://www.youtube.com/watch?v=byDZlMwi7kU)
+* Claus Wilke, [*Fundamentals of Data Visualization*](https://clauswilke.com/dataviz/)
+* Hullman, J., P. Resnick, and E. Adar. 2015. [“Hypothetical Outcome Plots Outperform Error Bars and Violin Plots for Inferences About Reliability of Variable Ordering.”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142444) *PLOS ONE* 10: e0142444.
 
 #### Clustering
 
@@ -509,47 +535,77 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
   * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
   * [K Means Clustering: Pros and Cons of K Means Clustering video](https://www.youtube.com/watch?v=YIGtalP1mv0) - watch up to time 4:44
 
+#### Network and Tree Visualization Slide References
+
+* Tamara Munzner, Visualization Analysis & Design [slides](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vadallslides.pdf) (pdf)
+  * [Ch 9 Network Data](https://www.youtube.com/watch?v=XOUJssmvz58&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=13) (30:49)
+* [Force-directed Graph Drawing (Wikipedia)](https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
+* Kate Starbird, [“Information Wars: A Window into the Alternative Media Ecosystem”](https://medium.com/hci-design-at-uw/information-wars-a-window-into-the-alternative-media-ecosystem-a1347f32fd8f)
+* [Intro to Forced Layouts](https://observablehq.com/@jkeohan/intro-to-forced-layouts) - examples of different forces
+* [Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph/2) - interactive version (interaction code starts at d3.drag())
+* [Simple Force-Directed Graph for CS 432/532](https://observablehq.com/@weiglemc/force-directed-layout-example-cs-432-532-spring-2020)
+* [Interactive & Dynamic Force-Directed Graphs with D3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811) - walkthrough with more explanation (d3.v4)
+* [NYU Networks notebook](https://observablehq.com/@nyuvis/networks) - adjacency matrix, force-directed node-link
+* D3 [Matrix Diagram](https://observablehq.com/@bstaats/matrix-diagram)
+* D3 [Radial Tree](https://observablehq.com/@d3/radial-tree/2)
+* D3 [Arc Diagram](https://observablehq.com/@bstaats/arc-diagram)
+* D3 [Treemap](https://observablehq.com/@d3/treemap-stratify)
+* D3 [Circle Packing](https://observablehq.com/@d3/pack/2)
+* D3 [Sunburst](https://observablehq.com/@d3/sunburst/2)
+
 ## Week 10
 
-[Agenda and Materials](#agenda-and-materials-9) | [Assignment](#assignment-9) | [Resources](#resources-9)
+**NO CLASS - Work on Presentations and Projects**
+
+### Due
+
+* Project topic
+
+## Week 11
 
 ### Due (before class)
 
 * Academic Paper Presentation slides
-* Project topic
-
-### Agenda and Materials
-
-VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/132393/pages/paper-presentation-schedule))
-
-* INSERT TITLES HERE
-
-### Assignment
-
-*no assignment*
-
-### Resources
-
-*no additional resources*
-
-## Week 11
-
-[Agenda and Materials](#agenda-and-materials-10) | [Assignment](#assignment-10) | [Resources](#resources-10)
-
-### Due (before class)
-
 * Project audience, task, and scenario
 
 ### Agenda and Materials
 
-VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/132393/pages/paper-presentation-schedule))
+VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/177607/pages/paper-presentation-schedule))
 
 * INSERT TITLES HERE
 
-### Assignment
+## Week 12
 
-*no assignment*
+### Agenda and Materials
 
-### Resources
+VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/177607/pages/paper-presentation-schedule))
 
-*no additional resources*
+* INSERT TITLES HERE
+
+## Week 13
+
+**NO CLASS - Work on Projects**
+
+## Week 14
+
+### Due Mon (before class)
+
+* Project implementation
+
+### Agenda and Materials
+
+Project demos
+
+* INSERT PROJECTS HERE
+
+You can view your classmates' projects and provide feedback or ask questions in the Project Demo Discussion - *link to be added*
+
+## Week 15
+
+### Agenda and Materials
+
+Project demos
+
+* INSERT PROJECTS HERE
+
+You can view your classmates' projects and provide feedback or ask questions in the Project Demo Discussion - *link to be added*
