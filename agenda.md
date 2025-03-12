@@ -567,7 +567,7 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 ## Week 11
 
-### Due (before class)
+### Due Mon (before class)
 
 * Academic Paper Presentation slides
 * Project audience, task, and scenario
