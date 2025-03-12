@@ -510,6 +510,8 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 ### Assignment
 
+*no additional assignment*
+
 ### Resources
 
 #### Visualizing Uncertainty Slide References
@@ -524,6 +526,8 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 * Lace Padilla, "How to Read Uncertainty Visualizations", [video](https://www.youtube.com/watch?v=byDZlMwi7kU)
 * Claus Wilke, [*Fundamentals of Data Visualization*](https://clauswilke.com/dataviz/)
 * Hullman, J., P. Resnick, and E. Adar. 2015. [“Hypothetical Outcome Plots Outperform Error Bars and Violin Plots for Inferences About Reliability of Variable Ordering.”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142444) *PLOS ONE* 10: e0142444.
+* Lace Padilla, Racquel Fygenson, Spencer C. Castro, Enrico Bertini, ["Multiple Forecast Visualizations (MFVs): Trade-offs in Trust and Performance in Multiple COVID-19 Forecast Visualizations"](https://psyarxiv.com/2sq7j), IEEE VIS 2022,
+* Lace Padilla, "Trade-offs in Trust and Performance in COVID-19 Visualizations", [video](https://www.youtube.com/watch?v=ANvggQpcNXE)
 
 #### Clustering
 
