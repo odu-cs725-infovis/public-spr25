@@ -40,6 +40,18 @@ This assignment is worth 25% of your final grade.
 
 Your project and report will be largely evaluated on how well they meet the guidelines provided here.  Additional considerations will be made for differences in difficulty (i.e., D3 vs. Vega-Lite), aesthetics, attention to detail, and project ambition.
 
+## Audience/Tasks/Scenario
+
+This requirement is to provide an initial outline of what you are planning for your dashboard project. 
+
+* User Audience - Identify the audience who you expect to use your dashboard (general public, researcher, expert, etc.)
+* Tasks - Identify the major tasks that will be enabled by your dashboard. What do you plan to allow the user to do/investigate? What questions do you anticipate they could answer? You may want to refer to VAD Ch 3 for some terminology around tasks.
+* Scenario - Provide an example scenario of a user using your dashboard to complete a task or answer a question. This can be a narrative description of what they would do, or could be sketches of how they might interact with the dashboard.
+
+This document will form the basis for our individual discussions regarding your plans, so provide as much detail as you can so that we can have a productive meeting.
+
+In Canvas, you can submit this as plain text, an uploaded .txt or .pdf file, or a link to a Markdown document (could be on GitHub or Observable).
+
 ## Report
 
 Your report must be done in Markdown. Points will be deducted for missing sections, excessive typos or grammatical errors, or a report that is difficult to read.  You may create your report in GitHub or in an Observable notebook separate from your project. 
