@@ -26,7 +26,7 @@ Your project page/notebook must include your name, CS 725/825 (as appropriate), 
 
 **Mon, Mar 24, 3pm** - dataset and topic chosen (posted in Canvas discussion forum)
 
-**Mon, Mar 31, 3pm** - description of the user audience, specific tasks that will be enabled, and example analysis scenario (document submitted in Canvas)
+**Mon, Mar 31, 3pm** - description of the user audience, specific tasks that will be enabled, and example analysis scenario
 
 **Fri, Apr 4** - deadline for meeting with me to discuss your initial design
 
@@ -50,7 +50,7 @@ This requirement is to provide an initial outline of what you are planning for y
 
 This document will form the basis for our individual discussions regarding your plans, so provide as much detail as you can so that we can have a productive meeting.
 
-In Canvas, you can submit this as plain text, an uploaded .txt or .pdf file, or a link to a Markdown document (could be on GitHub or Observable).
+**Submission:** In Canvas, submit this as plain text, an uploaded .txt or .pdf file, or a link to a Markdown document (could be on GitHub or Observable).
 
 ## Report
 
@@ -75,6 +75,8 @@ Your report must include the following sections:
 
 **References.** Include a list of any pre-existing resources (e.g. Stack Overflow, Observable notebooks, etc.) used in your implementation.
 
+**Submission:** In Canvas, submit the URL of your project report by the final report deadline.
+
 ## Demo
 
 You will have at most 20 minutes for your demo, but I expect that most projects could be demonstrated in about 10 minutes.  You do not need to provide slides, but you should plan out your demo in advance.  
@@ -88,6 +90,4 @@ You may also want to talk about significant things you learned (such as helpful 
 
 In addition, you should be prepared to answer questions about your visualization and its implementation after the demo.
 
-## Submission
-* Before 3pm on Apr 21, submit the URL of your project in the Project Assignment in Canvas.
-* Before 7pm on May 2, submit the URL of your project report in the Project Report Assignment in Canvas.
+**Submission:** In Canvas, submit the URL of your project implementation by the final project deadline.
