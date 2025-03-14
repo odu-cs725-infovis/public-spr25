@@ -8,6 +8,8 @@ A well-chosen dataset is key to creating an interesting project.  Choose somethi
 
 All projects will be demonstrated live in class.
 
+See the [Project Examples page](https://canvas.odu.edu/courses/177607/pages/project-examples) in Canvas for some ideas.
+
 ## Mechanics
 
 Project topic selection and demo scheduling will be done through the Canvas Discussion Board, similar to how we've done for the paper presentation. Once all project topics have been chosen, we'll start scheduling the demos in a similar manner.  No two students may choose the exact same dataset. 
