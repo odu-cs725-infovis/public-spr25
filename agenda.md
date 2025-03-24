@@ -576,7 +576,15 @@ Walkthrough "Layers and Facets and Concat, Oh My!" notebook, <https://observable
 
 VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/177607/pages/paper-presentation-schedule))
 
-* INSERT TITLES HERE
+**Mon:**
+
+* Kayla - Beware of Validation by Eye: Visual Validation of Linear Trends in Scatterplots
+* Kumushini - “I Came Across a Junk”: Understanding Design Flaws of Data Visualization from the Public’s Perspective
+
+**Wed:**
+
+* Bob - Smartboard: Visual Exploration of Team Tactics with LLM Agent
+* TBA
 
 ## Week 12
 
@@ -584,7 +592,15 @@ VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/17
 
 VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/177607/pages/paper-presentation-schedule))
 
-* INSERT TITLES HERE
+**Mon:**
+
+* Ethan - Towards Enhancing Low Vision Usability of Data Charts on Smartphones
+* TBA
+
+**Wed:**
+
+* Gus - The Effect of Visual Aids on Reading Numeric Data Tables
+* Brian - VisEval: A Benchmark for Data Visualization in the Era of Large Language Models
 
 ## Week 13
 
