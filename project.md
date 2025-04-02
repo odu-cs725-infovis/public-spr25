@@ -28,7 +28,7 @@ Your project page/notebook must include your name, CS 725/825 (as appropriate), 
 
 **Mon, Mar 31, 3pm** - description of the user audience, specific tasks that will be enabled, and example analysis scenario
 
-**Wed, Apr 9** - deadline for meeting with me to discuss your initial design
+**Fri, Apr 11** - deadline for meeting with me to discuss your initial design
 
 **Mon, Apr 21, 3pm** - final project deadline (last modifications to implementation notebook) 
 
