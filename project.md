@@ -26,7 +26,7 @@ Your project page/notebook must include your name, CS 725/825 (as appropriate), 
 
 **Mon, Mar 24, 3pm** - dataset and topic chosen (posted in Canvas discussion forum)
 
-**Mon, Mar 31, 3pm** - description of the user audience, specific tasks that will be enabled, and example analysis scenario
+**Mon, Mar 31, 11:59pm** - description of the user audience, specific tasks that will be enabled, and example analysis scenario
 
 **Fri, Apr 11** - deadline for meeting with me to discuss your initial design
 
