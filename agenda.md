@@ -584,7 +584,7 @@ VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/17
 **Wed:**
 
 * Bob - Smartboard: Visual Exploration of Team Tactics with LLM Agent
-* TBA
+* Bishoy - The Role of Text in Visualizations: How Annotations Shape Perceptions of Bias and Influence Predictions
 
 ## Week 12
 
@@ -595,7 +595,7 @@ VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/17
 **Mon:**
 
 * Ethan - Towards Enhancing Low Vision Usability of Data Charts on Smartphones
-* TBA
+* June - When Refreshable Tactile Displays Meet Conversational Agents: Investigating Accessible Data Presentation and Analysis with Touch and Speech
 
 **Wed:**
 
@@ -614,18 +614,27 @@ VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/17
 
 ### Agenda and Materials
 
+**Mon**
+
 Project demos
 
-* INSERT PROJECTS HERE
+* Kumushini - Global Labor Market Insights
+* Kayla -  	Changing Prices of Pokémon Trading Card Game (TCG) Sets
+* Bishoy - NBA Team and Player Efficiency Analysis
+* Brian - Public Perception of Crisis Events
 
-You can view your classmates' projects and provide feedback or ask questions in the Project Demo Discussion - *link to be added*
+**Wed**
+
+Project demos
+
+* Ethan -  	Medical Breakthroughs and US Death Rates
+*  	Bob -  	MLB Debut Age/Time in Farm System Versus WAR
+*  	Gus -  	Education Patterns Across the 50 States
+
+You can view your classmates' projects and provide feedback or ask questions in the [Project Demo Discussion](https://canvas.odu.edu/courses/177607/discussion_topics/1084954) 
 
 ## Week 15
 
 ### Agenda and Materials
 
-Project demos
-
-* INSERT PROJECTS HERE
-
-You can view your classmates' projects and provide feedback or ask questions in the Project Demo Discussion - *link to be added*
+Project demos - *if needed*
