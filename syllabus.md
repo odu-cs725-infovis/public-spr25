@@ -7,7 +7,7 @@ MW 3-4:15pm, ECSB 2120 and online via Zoom
 ## Course Overview
 
 **Catalog Description:** This course covers the theory and application of information visualization and of visual analytics, the science of combining interactive visual interfaces and information visualization techniques with automatic algorithms to support analytical reasoning through human-computer interaction. Research on visual perception, cognition, interactive visual interfaces, and visual analytics will be covered. Practical techniques for the display of complex multivariate data will be addressed. Course projects will require the development of iπnteractive web-based interfaces to analyze and visualize real-world datasets.
-P
+
 **Main Activities:** During the semester, students will develop interactive visualizations using D3.js, read academic papers from IEEE VIS and other top visualization conferences, give class presentations on current topics in information visualization and visual analytics, and gain hands-on experience in visualizing real-world datasets. Time will be reserved in the semester to cover special topics selected by the class.
 
 **Prerequisite:** CS 625 (Data Visualization)  
